@@ -28,7 +28,7 @@ và chọn `OK`.
 
 	Có thể cấu hình cho `PyCharm` như hình bên dưới (tùy vào người sử dụng, các thiết lập có thể thay đổi sau này).
 	
-		![](https://raw.githubusercontent.com/h3int2um/pycharm/master/images-pycharm/open-pycharm/pycharm-communition-edition-initial-configuration-2.png)
+	![](https://raw.githubusercontent.com/h3int2um/pycharm/master/images-pycharm/open-pycharm/pycharm-communition-edition-initial-configuration-2.png)
 		
 	Sau khi cấu hình xong chọn `OK`.
 
@@ -38,7 +38,7 @@ và chọn `OK`.
 	
 	Sau khi chọn `Create NewProject` được giao diện như hình dưới với các tùy chọn sau:
 	
-		![](https://raw.githubusercontent.com/h3int2um/pycharm/master/images-pycharm/open-pycharm/create-new-project-pycharm.png)		
+	![](https://raw.githubusercontent.com/h3int2um/pycharm/master/images-pycharm/open-pycharm/create-new-project-pycharm.png)		
 		
 	+ `Location`: Chọn nơi lưu trữ `project` và đặt tên cho `project`.
 	
